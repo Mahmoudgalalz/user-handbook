@@ -1,7 +1,7 @@
 ---
 name: user-handbook
 title: User Handbook
-version: true
+version: '1.0'
 start_page: user-handbook::index.adoc
 nav:
   - modules/ROOT/nav.adoc
