@@ -2,6 +2,7 @@
 name: user-handbook
 title: User Handbook
 version: true
+start_page: user-handbook::index.adoc
 nav:
   - modules/ROOT/nav.adoc
   - modules/installing/nav.adoc
